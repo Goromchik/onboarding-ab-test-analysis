@@ -83,5 +83,7 @@
 Чтобы запустить панель управления локально:
 
 pip install -r requirements.txt
+
 python scripts/generate_experiment_data.py
+
 streamlit run app/dashboard.py
