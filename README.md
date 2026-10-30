@@ -87,3 +87,6 @@ pip install -r requirements.txt
 python scripts/generate_experiment_data.py
 
 streamlit run app/dashboard.py
+<img width="1803" height="958" alt="image" src="https://github.com/user-attachments/assets/8870f4bb-5ea6-4a1b-98d1-eced2258b826" />
+<img width="1820" height="967" alt="image" src="https://github.com/user-attachments/assets/15424bce-87a5-4d64-af89-8bb5234e1ced" />
+
